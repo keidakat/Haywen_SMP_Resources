@@ -1,0 +1,80 @@
+1
+00:00:00,000 --> 00:00:04,800
+Hello, this is your automatic log report of your missing GTMU.
+
+2
+00:00:04,800 --> 00:00:10,080
+We are sorry to say, but we cannot provide a replacement unit until you provide the damaged
+
+3
+00:00:10,080 --> 00:00:12,000
+unit assigned to you already.
+
+4
+00:00:12,000 --> 00:00:16,000
+However, the log may be able to provide assistance in the matter.
+
+5
+00:00:16,000 --> 00:00:18,000
+Depth, 10 meters.
+
+6
+00:00:18,000 --> 00:00:20,000
+Depth, 50 meters.
+
+7
+00:00:20,000 --> 00:00:22,000
+Depth, 100 meters.
+
+8
+00:00:22,000 --> 00:00:25,000
+Warning, depth reaching critical levels.
+
+9
+00:00:25,000 --> 00:00:27,000
+Depth, 150 meters.
+
+10
+00:00:27,000 --> 00:00:30,000
+Warning, signal connection decreasing.
+
+11
+00:00:30,000 --> 00:00:32,000
+Please return immediately.
+
+12
+00:00:32,000 --> 00:00:35,000
+Energy levels low, energy levels low, enter.
+
+13
+00:00:35,000 --> 00:00:37,000
+Energy restored, please surface.
+
+14
+00:00:37,000 --> 00:00:40,000
+Immediately, resurface immediately.
+
+15
+00:00:40,000 --> 00:00:42,000
+Connection lost, rebooting.
+
+16
+00:00:42,000 --> 00:00:44,000
+Rebooting, host lost.
+
+17
+00:00:44,000 --> 00:00:48,000
+Critical damage, tracking unit, critical damage.
+
+18
+00:00:48,000 --> 00:00:50,000
+Connecting unit log end.
+
+19
+00:00:50,000 --> 00:00:55,000
+We at ProTech Industries hope this log provided assists you in your situation at hand.
+
+20
+00:00:55,000 --> 00:00:57,000
+Have a lovely day.
+

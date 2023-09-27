@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	{
+		"model": "friendsandfoes:block/buttercup",
+		"weight": 2
+    },
+	{
+		"model": "minecraft:block/buttercup_2",
+		"weight": 3
+    },
+	{
+		"model": "minecraft:block/buttercup_3",
+		"weight": 2
+	}
+	]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Sai Praa MMD GTMU Report Log",
+  "sound": "momento:sai_Praa_MMD_GTMU_Report_Log",
+  "volume": 1,
+  "srt": "momento:sai_Praa_MMD_GTMU_Report_Log",
+  "icon": "HAND_HELD_SPEAKER",
+  "display": 
+  {
+    "color": "aqua"
+  }
+}

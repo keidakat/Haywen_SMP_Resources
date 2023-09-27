@@ -1,0 +1,32 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "momento:item/brass_tape_recorder"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "momento:type": 0.2
+      },
+      "model": "momento:item/hand_held_speaker"
+    },
+    {
+      "predicate": {
+        "momento:type": 0.3
+      },
+      "model": "momento:item/teal_phonograph"
+    },
+    {
+      "predicate": {
+        "momento:type": 0.4
+      },
+      "model": "momento:item/wooden_radio"
+    },
+    {
+      "predicate": {
+        "momento:type": 0.5
+      },
+      "model": "momento:item/purple_phonograph"
+    }
+  ]
+}

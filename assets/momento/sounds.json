@@ -1,0 +1,32 @@
+{
+  "demo" : {
+    "sounds": [
+      "momento:demo"
+    ]
+  },
+  "shekilledme" : 
+  {
+	  "sounds": [
+	  "momento:shekilledme"
+	  ]
+  },
+    "ray" : 
+  {
+	  "sounds": [
+	  "momento:ray"
+	  ]
+  },
+  "sai_metallic_material_depo_report" : 
+  {
+	  "sounds": [
+	  "momento:sai_metallic_material_depo_report"
+	  ]
+  },
+  "sai_Praa_MMD_GTMU_Report_Log" : 
+  {
+	  "sounds": [
+	  "momento:sai_Praa_MMD_GTMU_Report_Log"
+	  ]
+  }
+}
+  

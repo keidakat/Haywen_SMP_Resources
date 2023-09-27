@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:04,800
+Metallic material depot report, whelp, shit.
+
+2
+00:00:04,800 --> 00:00:09,840
+Currently we are missing our geothermic mining unit, otherwise named SAI,
+
+3
+00:00:09,840 --> 00:00:14,960
+Serviceable Auxiliary Intelligence, SAI for short.
+
+4
+00:00:14,960 --> 00:00:19,040
+He was last reported going into the deep mines as his directive stated for him to
+
+5
+00:00:19,040 --> 00:00:21,920
+do so, though we have lost all communication
+
+6
+00:00:21,920 --> 00:00:26,960
+with the unit since its last activation. So far we have waited for its automatic
+
+7
+00:00:26,960 --> 00:00:31,440
+return system to activate after the 24-hour marker, however we
+
+8
+00:00:31,440 --> 00:00:34,000
+believe it may have gotten stuck somewhere in the mine,
+
+9
+00:00:34,000 --> 00:00:39,600
+as we did record some seismic activity down in the deeper levels in the mines.
+
+10
+00:00:39,600 --> 00:00:47,040
+Sending order form hash 5664 RPD for our site for a replacement unit.
+

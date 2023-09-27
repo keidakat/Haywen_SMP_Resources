@@ -1,0 +1,11 @@
+{
+  "name": "Sai Metallic Material Depo Report",
+  "sound": "momento:sai_metallic_material_depo_report",
+  "volume": 1,
+  "srt": "momento:sai_metallic_material_depo_report",
+  "icon": "HAND_HELD_SPEAKER",
+  "display": 
+  {
+    "color": "aqua"
+  }
+}

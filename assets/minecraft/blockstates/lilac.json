@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "minecraft:block/lilac_bottom"
+    },
+    "half=upper": [
+	{
+      "model": "minecraft:block/lilac_top",
+		"weight": 1
+    },
+	{
+      "model": "minecraft:block/lilac_top_buds",
+		"weight": 3
+    },
+	{
+      "model": "minecraft:block/lilac_top_short",
+		"weight": 1
+    }
+	]
+  }
+}

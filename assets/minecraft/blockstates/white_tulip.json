@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	{
+		"model": "minecraft:block/white_tulip",
+		"weight": 2
+    },
+	{
+		"model": "minecraft:block/white_tulip_2",
+		"weight": 3
+    },
+	{
+		"model": "minecraft:block/white_tulip_3",
+		"weight": 2
+	}
+	]
+  }
+}

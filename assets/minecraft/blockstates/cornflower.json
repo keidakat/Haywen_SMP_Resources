@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+	{
+		"model": "minecraft:block/cornflower",
+		"weight": 2
+    },
+	{
+		"model": "minecraft:block/cornflower_f",
+		"weight": 2
+    },
+	{
+		"model": "minecraft:block/cornflower_2",
+		"weight": 3
+    },
+	{
+		"model": "minecraft:block/cornflower_2f",
+		"weight": 3
+	},
+	{
+		"model": "minecraft:block/cornflower_3",
+		"weight": 2
+	},
+	{
+		"model": "minecraft:block/cornflower_3f",
+		"weight": 2
+	}
+	]
+  }
+}

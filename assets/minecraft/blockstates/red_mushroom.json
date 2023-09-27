@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+	{
+		"model": "minecraft:block/red_mushroom",
+		"weight": 3
+    },
+	{
+		"model": "minecraft:block/red_mushroom_2",
+		"weight": 4
+    },
+	{
+		"model": "minecraft:block/red_mushroom_m",
+		"weight": 4
+	},
+	{
+		"model": "minecraft:block/red_mushroom_t",
+		"weight": 1
+	}
+	]
+  }
+}

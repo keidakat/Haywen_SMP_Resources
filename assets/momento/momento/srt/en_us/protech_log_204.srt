@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:06,720
+Log 204. The prototype is working effectively though the process is taking longer than
+
+2
+00:00:06,720 --> 00:00:13,200
+expected. The prism core is seeming to generate uncontrollable amounts of energy that leads to
+
+3
+00:00:13,200 --> 00:00:18,160
+problems down the line with the health of the protogen system to the point it may fry its
+
+4
+00:00:18,160 --> 00:00:24,560
+systems. From now on we are moving the project to be only designated for testing on guard and
+
+5
+00:00:24,560 --> 00:00:28,080
+heavy equipment models due to their durable chassis.
+

@@ -1,0 +1,11 @@
+{
+  "name": "personal_log_2",
+  "sound": "momento:protech_personal_log_1_d",
+  "volume": 1,
+  "srt": "momento:protech_personal_log_1_d",
+  "icon": "HAND_HELD_SPEAKER",
+  "display": 
+  {
+    "color": "aqua"
+  }
+}

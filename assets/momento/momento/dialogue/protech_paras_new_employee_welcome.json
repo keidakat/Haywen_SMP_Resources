@@ -1,0 +1,11 @@
+{
+  "name": "Welcome new Employee!",
+  "sound": "momento:protech_paras_new_employee_welcome",
+  "volume": 1,
+  "srt": "momento:protech_paras_new_employee_welcome",
+  "icon": "HAND_HELD_SPEAKER",
+  "display": 
+  {
+    "color": "aqua"
+  }
+}

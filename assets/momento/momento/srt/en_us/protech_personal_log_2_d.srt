@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:04,200
+Personal Log 2 The anomaly has been recovered from the crash
+
+2
+00:00:04,200 --> 00:00:10,360
+site. As of now, we are not fully sure to believe what it says about itself. However,
+
+3
+00:00:10,360 --> 00:00:16,600
+it goes by the name Cody Howardson. Its body seems unstable, almost as if their bodies
+
+4
+00:00:16,600 --> 00:00:21,880
+atoms are severing themselves from one another. We assume this via the amount of radiation
+
+5
+00:00:21,880 --> 00:00:28,600
+coming off of his body. What is strange is he looks just like a normal child. No deformities,
+
+6
+00:00:28,600 --> 00:00:34,060
+no extra limbs, nothing out of the ordinary. Though what truly confuses me is why they
+
+7
+00:00:34,060 --> 00:00:40,080
+put a child-like entity to be studied by an AI engineer instead of anyone in bioscience.
+
+8
+00:00:40,080 --> 00:00:43,880
+Oh well, I'll do my best to figure out what it is.
+

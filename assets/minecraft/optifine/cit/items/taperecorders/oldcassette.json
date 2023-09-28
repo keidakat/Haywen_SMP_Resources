@@ -1,12 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./block/iron_door_bottom",
-		"1": "./block/gray_concrete",
-		"2": "./block/black_concrete",
-		"3": "./block/glass",
-		"5": "./block/red_concrete",
-		"particle": "./block/iron_door_bottom"
+		"0": "block/exposed_copper",
+		"1": "block/gray_concrete_powder",
+		"2": "block/black_concrete",
+		"5": "block/red_concrete",
+		"particle": "block/exposed_copper"
 	},
 	"elements": [
 		{
@@ -33,32 +32,6 @@
 				"west": {"uv": [1, 2, 16, 3], "texture": "#0"},
 				"up": {"uv": [1, 2, 8, 8], "texture": "#0"},
 				"down": {"uv": [1, 2, 8, 8], "texture": "#0"}
-			}
-		},
-		{
-			"name": "Glass",
-			"from": [8, 7.75, 4.5],
-			"to": [9.75, 8, 11.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-2, 6, 0]},
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
-				"west": {"uv": [0, 0, 16, 1], "texture": "#3"},
-				"up": {"uv": [0, 0, 16, 4], "rotation": 270, "texture": "#3"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
-			}
-		},
-		{
-			"name": "Glass",
-			"from": [9.75, 7, 4.5],
-			"to": [10, 8, 11.5],
-			"rotation": {"angle": 0, "axis": "z", "origin": [10.625, 7.875, 8]},
-			"faces": {
-				"east": {"uv": [0, 0, 16, 3], "texture": "#3"},
-				"west": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#3"},
-				"up": {"uv": [0, 0, 16, 1], "rotation": 90, "texture": "#3"},
-				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#3"}
 			}
 		},
 		{
@@ -132,8 +105,8 @@
 			}
 		},
 		{
-			"from": [4.95, 7.55, 4.25],
-			"to": [6.2, 8.05, 5],
+			"from": [5.45, 7.55, 4.25],
+			"to": [6.7, 8.05, 5],
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [5.575, 7.8, 7.9]},
 			"faces": {
 				"north": {"uv": [0, 0, 1.25, 0.5], "texture": "#1"},
@@ -145,8 +118,8 @@
 			}
 		},
 		{
-			"from": [4.95, 7.55, 5.15],
-			"to": [6.2, 8.05, 5.9],
+			"from": [5.2, 7.55, 5.15],
+			"to": [6.45, 8.05, 5.9],
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [5.575, 7.8, 7.9]},
 			"faces": {
 				"north": {"uv": [0, 0, 1.25, 0.5], "texture": "#1"},
@@ -197,8 +170,8 @@
 			}
 		},
 		{
-			"from": [4.95, 7.55, 8.75],
-			"to": [6.2, 8.05, 9.5],
+			"from": [5.2, 7.55, 8.75],
+			"to": [6.45, 8.05, 9.5],
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [5.575, 7.8, 7.9]},
 			"faces": {
 				"north": {"uv": [0, 0, 1.25, 0.5], "texture": "#1"},
@@ -274,13 +247,13 @@
 			"name": "Casing",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+			"children": [0, 1, 2, 3, 4, 5, 6]
 		},
 		{
 			"name": "Buttons",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [9, 10, 11, 12, 13, 14, 15, 16]
+			"children": [7, 8, 9, 10, 11, 12, 13, 14]
 		}
 	]
 }

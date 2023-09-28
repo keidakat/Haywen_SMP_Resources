@@ -27,6 +27,48 @@
 	  "sounds": [
 	  "momento:sai_praa_mmd_gtmu_report_log"
 	  ]
+  },
+  "protech_log_195" : 
+  {
+	  "sounds": [
+	  "momento:protech_log_195"
+	  ]
+  },
+  "protech_log_204" : 
+  {
+	  "sounds": [
+	  "momento:protech_log_204"
+	  ]
+  },
+  "protech_log_290" : 
+  {
+	  "sounds": [
+	  "momento:protech_log_290"
+	  ]
+  },
+  "protech_log_309" : 
+  {
+	  "sounds": [
+	  "momento:protech_log_309"
+	  ]
+  },
+  "protech_paras_new_employee_welcome" : 
+  {
+	  "sounds": [
+	  "momento:protech_paras_new_employee_welcome"
+	  ]
+  },
+  "protech_personal_log_1_d" : 
+  {
+	  "sounds": [
+	  "momento:protech_personal_log_1_d"
+	  ]
+  },
+  "protech_personal_log_2_d" : 
+  {
+	  "sounds": [
+	  "momento:protech_personal_log_2_d"
+	  ]
   }
 }
   

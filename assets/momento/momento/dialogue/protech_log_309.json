@@ -1,0 +1,11 @@
+{
+  "name": "protech_log_protech_log_309",
+  "sound": "momento:protech_log_309",
+  "volume": 1,
+  "srt": "momento:protech_log_309",
+  "icon": "HAND_HELD_SPEAKER",
+  "display": 
+  {
+    "color": "aqua"
+  }
+}

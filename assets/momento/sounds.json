@@ -22,10 +22,10 @@
 	  "momento:sai_metallic_material_depo_report"
 	  ]
   },
-  "sai_Praa_MMD_GTMU_Report_Log" : 
+  "sai_praa_mmd_gtmu_report_log" : 
   {
 	  "sounds": [
-	  "momento:sai_Praa_MMD_GTMU_Report_Log"
+	  "momento:sai_praa_mmd_gtmu_report_log"
 	  ]
   }
 }

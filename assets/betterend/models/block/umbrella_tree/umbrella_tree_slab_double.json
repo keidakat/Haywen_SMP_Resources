@@ -1,0 +1,8 @@
+{
+  "parent": "autoslabs:block/slab_double_template",
+  "textures": {
+    "bottom": "betterend:block/umbrella_tree_planks.png",
+    "side": "betterend:block/umbrella_tree_planks.png",
+    "top": "betterend:block/umbrella_tree_planks.png"
+  }
+}

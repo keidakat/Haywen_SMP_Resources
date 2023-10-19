@@ -1,0 +1,9 @@
+{
+  "parent": "autoslabs:block/slab_vertical_east_west_bottom_template",
+  "textures": {
+    "bottom": "betterend:block/neon_cactus_block_top",
+    "side": "betterend:block/neon_cactus_block_side",
+    "side_vertical": "betterend:block/neon_cactus_block_side",
+    "top": "betterend:block/neon_cactus_block_top"
+  }
+}

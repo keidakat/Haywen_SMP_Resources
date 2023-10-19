@@ -1,0 +1,9 @@
+{
+  "parent": "autoslabs:block/slab_vertical_east_west_double_template",
+  "textures": {
+    "bottom": "betterend:block/umbrella_tree_planks",
+    "side": "betterend:block/umbrella_tree_planks",
+    "side_vertical": "betterend:block/umbrella_tree_planks",
+    "top": "betterend:block/umbrella_tree_planks"
+  }
+}

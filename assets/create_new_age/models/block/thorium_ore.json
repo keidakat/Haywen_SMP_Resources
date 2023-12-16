@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
+		"particle": "create_new_age:block/thorium_ore",
 		"all": "create_new_age:block/thorium_ore"
 	},
 	"elements": [

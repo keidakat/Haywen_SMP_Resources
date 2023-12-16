@@ -1,5 +1,6 @@
 {
     "textures": {
-      "all": "create_new_age:block/thorium_ore"
+      "parent": "minecraft:block/cube_all",
+      "all": "create_new_age/textures/block/thorium_ore"
     }
 }

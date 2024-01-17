@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./block/white_wool",
-		"4": "./block/light_gray_wool",
-		"particle": "./block/white_wool"
+		"0": "block/white_wool",
+		"4": "block/light_gray_wool",
+		"particle": "block/white_wool"
 	},
 	"elements": [
 		{

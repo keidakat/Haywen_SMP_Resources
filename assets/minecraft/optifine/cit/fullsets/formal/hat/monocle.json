@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "./block/glass",
-		"3": "./block/chain",
-		"particle": "./block/black_shulker_box"
+		"1": "block/glass",
+		"3": "block/chain",
+		"particle": "block/black_shulker_box"
 	},
 	"elements": [
 		{

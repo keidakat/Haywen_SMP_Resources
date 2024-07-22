@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "font/ascii",
+		"0": "assets/minecraft/textures/font/ascii.png",
 		"1": "block/blue_orchid",
 		"2": "block/light_blue_concrete_powder",
-		"particle": "font/ascii"
+		"particle": "assets/minecraft/textures/font/ascii.png"
 	},
 	"elements": [
 		{

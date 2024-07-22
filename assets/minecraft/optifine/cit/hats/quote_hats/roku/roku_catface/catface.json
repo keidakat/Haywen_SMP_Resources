@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "font/ascii",
+		"0": "assets/minecraft/textures/font/ascii.png",
 		"1": "block/comparator_on",
 		"2": "font/unicode_page_00",
 		"particle": "font/ascii"
